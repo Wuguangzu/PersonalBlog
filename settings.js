@@ -1,4 +1,4 @@
 module.exports = { 
   cookieSecret: 'myblog', 
-  url : 'mongodb://cryfordie:ii900427@kahana.mongohq.com:10042/blog'
+  url : 'mongodb://wuguangzu:mima211985@kahana.mongohq.com:10056/blog'
 }; 
